@@ -20,3 +20,5 @@ aws lambda list-functions
 # LIST IAM USERS #
 echo "print iam users"
 aws iam list-users
+
+# end of the project #
